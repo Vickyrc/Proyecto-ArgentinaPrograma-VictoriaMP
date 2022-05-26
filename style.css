@@ -1,0 +1,121 @@
+.logo{
+    border: 1px solid #e3b155;
+    border-radius: 10px;
+    margin: 1rem;
+  
+  }
+  
+  
+  .mat-card{
+    border-radius: 32px;
+    margin: 20px 10px;
+    padding: 10px;
+    border-color: #e3b155;
+  }
+  .mat-card#first-card{
+    padding: 0;
+  }
+  div#profile-background{
+    display: flex;
+  
+  }
+  
+  div#profile-background img{
+    width: 100%;
+    border-radius: 32px 32px 0 0;
+  
+  }
+  .profile-image{
+    border-radius: 50%;
+    width: 152px;
+    height: 152px;
+    margin-top: -110px;
+    z-index: 1;
+  }
+  
+  
+  div#info-data{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  ul#info-details img {
+    width: 60px;
+    height: 40px;
+    margin: .5rem;
+  }
+  
+  ul#info-details a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  ul#info-details h2 {
+    font-size: 1rem;
+  }
+  
+  ul#info-details{
+    list-style: none;
+  }
+  
+  a[href^="https://www.conicet.gov.ar/"]{
+    color: #5eb7e7;
+  }
+  
+  a[href^="https://uca.edu.ar/es/rosario"]{
+     color: #5eb7e7;
+  }
+  
+  a[href^="infocontacto/infocontacto.html"]{
+     color: #5eb7e7;
+  }
+  
+  
+  
+  div#info-actions{
+    display: flex;
+  }
+  
+  .mat-card#second-card{
+    padding: 1rem;
+    background-color: #f0e3be;
+  }
+  
+  .mat-card#third-card{
+    padding: 1rem;
+    background-color: #f0e3be;
+  }
+  
+  ul#experiencia{
+    list-style: none;
+  }
+  
+  
+  .mat-card#fourth-card{
+    padding:1rem;
+    background-color: #f0e3be;
+  }
+  
+  ul#educacion{
+    list-style: none;
+  }
+  
+  div#texto-educacion img{
+    border-radius: 10px;
+    margin: 5px;
+  }
+  
+  .mat-card#fifth-card{
+    padding: 1rem;
+    background-color: #f0e3be;
+  }
+  
+  
+  .progress{
+    margin: 10px;
+    background-color: #99a1a3;
+    border-radius: 10px;
+  
+  }
+  

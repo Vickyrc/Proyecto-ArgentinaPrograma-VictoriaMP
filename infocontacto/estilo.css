@@ -1,0 +1,19 @@
+.mat-card{
+    border-radius: 32px;
+    margin: 20px 10px;
+    padding: 10px;
+    border-color: #c25d72;
+    
+}
+
+div#infomail{
+    padding: 10px;
+}
+
+div#infotel{
+    padding: 10px;
+}
+
+div#infolinkedin{
+    padding: 10px;
+}
